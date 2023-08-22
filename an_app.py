@@ -1,5 +1,5 @@
 import os
-from somerepo import ask_name()
+from my_module import ask_name
 
 with open("a_file.txt", "r") as file:
 	for line in file:
