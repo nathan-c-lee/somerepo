@@ -4,7 +4,7 @@ this is where i will test things and tool around with the various commands relat
 i might write silly things in here sometimes.
 it probably wont exist for very long, i'll likely delete it.
 
-## for convention:
+## specification:
 	an_app.py: an_app.py is a dummy python app which represents the main application of
 		this repository. it reads from a file (a_file.txt) and prints each line of it 
 		to the console. once the end of the file has been read, the app prompts the user
