@@ -8,6 +8,4 @@ now this program will ask you a question.
 your response can only contain alphabetic
 carachters.
 
-//
-
 thank you for running my program.
