@@ -1,10 +1,21 @@
 import os
 from my_module import ask_name
 
-with open("a_file.txt", "r") as file:
-	for line in file:
-		print(line)
+while True:
+	with open("a_file.txt", "r") as file:
+	
+		for line in file:
+			if "//" in line:
+				while ask_name():
+					continue
+			else:
+				print(line)
 
-while ask_name():
-	continue
+	q = input("type 'q' to quit: ").lower()
+	if q == "q":
+		break
+	else:
+		continue
+
+
 

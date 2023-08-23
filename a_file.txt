@@ -3,8 +3,11 @@ Greetings dear reader
 you've stumbled upon an exercise of mine.
 nothing too interesting, unfortunately.
 just some computer nerd-ery.
-pee paw poooooopie poo
-i'm adding a few more lines in here.
-still not very exciting, but i'm 
-making it happen. 
-adding just a bit more
+
+now this program will ask you a question.
+your response can only contain alphabetic
+carachters.
+
+//
+
+thank you for running my program.
